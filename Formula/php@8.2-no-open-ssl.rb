@@ -1,4 +1,4 @@
-class PhpAT82NoOpenSSL < Formula
+class PhpAT82NoOpenSsl < Formula
   desc "General-purpose scripting language"
   homepage "https://www.php.net/"
   url "https://www.php.net/distributions/php-8.2.23.tar.xz"
